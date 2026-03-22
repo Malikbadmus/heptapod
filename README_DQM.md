@@ -1,7 +1,7 @@
 # ML4DQM — HEPTAPOD Extension for CMS Data Quality Monitoring
 
 This directory extends the HEPTAPOD framework with a specialised toolset
-for **CMS Data Quality Monitoring (DQM)**. It is a GSoC 2026 contribution
+for **CMS Data Quality Monitoring (DQM)**. It is my GSoC 2026 contribution
 to the [ML4SCI ML4DQM project](https://ml4sci.org/gsoc/projects/2026/project_ML4DQM.html).
 
 ---
